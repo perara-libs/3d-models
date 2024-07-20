@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fictional Cold War Tank
+* source:	https://sketchfab.com/3d-models/fictional-cold-war-tank-919c1249dd4740389e97c50d030e8a50
+* author:	Æck (https://sketchfab.com/aeck2142)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fictional Cold War Tank" (https://sketchfab.com/3d-models/fictional-cold-war-tank-919c1249dd4740389e97c50d030e8a50) by Æck (https://sketchfab.com/aeck2142) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
